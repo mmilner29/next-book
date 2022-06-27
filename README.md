@@ -5,4 +5,7 @@ Refactored fully functioning Google Books API search engine built with a RESTful
   
 ## Preview
 
+![Preview GIF](/assets/preview-nb.gif)
+
 ## Deployed Link
+[https://powerful-wave-99001.herokuapp.com/](https://powerful-wave-99001.herokuapp.com/)
